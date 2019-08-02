@@ -20,3 +20,5 @@ https://login.proxy1.athensams.net/login?qurl=http%3A%2F%2Fgateway.proquest.com%
 https://go.openathens.net/redirector/usfca.edu?url=http%3A%2F%2Feebo.chadwyck.com%2Fsearch%2Ffull_rec%3FSOURCE%3Dconfig.cfg%26ACTION%3DByID%26ID%3D
 
 &entityID=https://idp.usfca.edu/openathens|xAthenized --> |xAthenized
+
+CHANGE 3
