@@ -1,3 +1,22 @@
 http://0-library.artstor.org.ignacio.usfca.edu/library/secure/ViewImages?id=%2FThWdC8hIywtPygxFTx5RngtU3ItfFs%3D&userId=gjZEdA%3D%3D&zoomparams=
 http://0-library.artstor.org.ignacio.usfca.edu/library/secure/ViewImages?id=8D1Efjk2Njs%2BPzcuFTx5TnAsWnsh&userId=gjZEdA%3D%3D&zoomparams=
 http://0-search.alexanderstreet.com.ignacio.usfca.edu/opiv/view/work/578761
+
+https://login.proxy1.athensams.net/login?qurl=http%3A%2F%2Fgateway.proquest.com%2Fopenurl%3Fctx_ver%3DZ39.88-2003%26res_id%3Dxri%3Aeebo%26rft_id%3Dxri%3Aeebo%3Acitation%3A99844144&entityID=https://idp.usfca.edu/openathens
+
+https://go.openathens.net/redirector/usfca.edu?url=https%3A%2F%2Feebo.chadwyck.com%2Fsearch%3FSCREEN%3Dsearch_advanced.htx
+
+https://go.openathens.net/redirector/usfca.edu?url=http%3A%2F%2Fgateway.proquest.com%2Fopenurl%3Fctx_ver%3DZ39.88-2003%26res_id%3Dxri%3Aeebo%26rft_id%3Dxri%3Aeebo%3Acitation%3A99844144
+
+http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&res_id=xri:eebo&rft_id=xri:eebo:citation:99844144
+
+====
+
+https://login.proxy1.athensams.net/login?qurl=http%3A%2F%2Fgateway.proquest.com%2Fopenurl%3Fctx_ver%3DZ39.88-2003%26res_id%3Dxri%3Aeebo%26rft_id%3Dxri%3Aeebo%3Acitation%3A99844144&entityID=https://idp.usfca.edu/openathens
+
+https://go.openathens.net/redirector/usfca.edu?url=http%3A%2F%2Feebo.chadwyck.com%2Fsearch%2Ffull_rec%3FSOURCE%3Dconfig.cfg%26ACTION%3DByID%26ID%3D99844144
+
+https://login.proxy1.athensams.net/login?qurl=http%3A%2F%2Fgateway.proquest.com%2Fopenurl%3Fctx_ver%3DZ39.88-2003%26res_id%3Dxri%3Aeebo%26rft_id%3Dxri%3Aeebo%3Acitation%3A -->
+https://go.openathens.net/redirector/usfca.edu?url=http%3A%2F%2Feebo.chadwyck.com%2Fsearch%2Ffull_rec%3FSOURCE%3Dconfig.cfg%26ACTION%3DByID%26ID%3D
+
+&entityID=https://idp.usfca.edu/openathens|xAthenized --> |xAthenized
